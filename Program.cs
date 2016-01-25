@@ -51,7 +51,11 @@ namespace DZ_CS_5._1
                   }
           }
     }
-     class Lesson
+    class YTP
+    {
+	byte TP;
+    }
+    class YsTPs
     {
 	byte TP;
     }
