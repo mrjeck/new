@@ -51,7 +51,7 @@ namespace DZ_CS_5._1
                   }
           }
     }
-    class YTP
+    class YTP//new class
     {
 	byte TP;
     }
