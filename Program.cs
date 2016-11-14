@@ -55,7 +55,7 @@ namespace DZ_CS_5._1
     {
 	byte TP;
     }
-    class YsTPs
+    class YsTPs//new class
     {
 	byte TP;
     }
